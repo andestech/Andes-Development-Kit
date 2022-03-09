@@ -1,8 +1,16 @@
-AndeSight v5.0.0 Windows
+## Contents
 
 This devekopment kit includes:
 
-* Cygwin
+* Cygwin (Windows only)
 * Ice (Andes openOCD)
 * Flash utilities
 * Toolchains
+
+## Releases
+
+Please check the [release](https://github.com/andestech/Andes-Development-Kit/releases) page.  We currently provide:
+
+* AndeSight v5.0.0 Windows/Linux
+* AndeSight v3.2.4 Windows/Linux
+* AndeSight v3.2.3 Windows/Linux
