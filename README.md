@@ -14,3 +14,4 @@ Please check the [release](https://github.com/andestech/Andes-Development-Kit/re
 * AndeSight v5.0.0 Windows/Linux
 * AndeSight v3.2.4 Windows/Linux
 * AndeSight v3.2.3 Windows/Linux
+* AndeSight v3.2.1 Windows/Linux
