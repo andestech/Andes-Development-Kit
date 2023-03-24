@@ -11,6 +11,7 @@ This devekopment kit includes:
 
 Please check the [release](https://github.com/andestech/Andes-Development-Kit/releases) page.  We currently provide:
 
+* AndeSight v3.2.5 Windows/Linux
 * AndeSight v5.1.1 Windows/Linux
 * AndeSight v5.1.0 Windows/Linux
 * AndeSight v5.0.0 Windows/Linux
